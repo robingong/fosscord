@@ -1,3 +1,6 @@
+开源的 Discord 方案，同样支持语音，视频，IM 等
+
+
 <p align="center">
   <img width="100" src="https://raw.githubusercontent.com/fosscord/fosscord/master/assets/logo_big_transparent.png" />
 </p>
